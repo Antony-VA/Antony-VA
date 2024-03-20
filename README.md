@@ -5,3 +5,7 @@ Soy una persona autodidacta y siempre estoy buscando oportunidades para aprender
 
 ## Contactame
 Mientras sigo mi camino para ser desarrollador Full Stack, busco constantemente proyectos de colaboración y oportunidades donde pueda aportar mis habilidades y crecer personal y profesionalmente. Por eso ¡¡Contactame!!
+
+## Hobbies
+- Dancing: ...
+- Reading: I'm currently reading "The Alchemist" by Paulo Coelho. It is a great book about self discovery and spiritual
