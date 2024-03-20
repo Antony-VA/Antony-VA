@@ -5,3 +5,7 @@ Soy una persona autodidacta y siempre estoy buscando oportunidades para aprender
 
 ## Contactame
 Mientras sigo mi camino para ser desarrollador Full Stack, busco constantemente proyectos de colaboración y oportunidades donde pueda aportar mis habilidades y crecer personal y profesionalmente. Por eso ¡¡Contactame!!
+
+## Technologies
+- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
