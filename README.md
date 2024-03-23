@@ -9,3 +9,9 @@ Mientras sigo mi camino para ser desarrollador Full Stack, busco constantemente 
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 - Programación en C++ y Java.
+- 
+## Hobbies
+- Dancing: ...
+- Reading: I'm currently reading "The Alchemist" by Paulo Coelho. It is a great book about self discovery and spiritual
+
+
