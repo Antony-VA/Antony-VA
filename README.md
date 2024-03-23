@@ -5,3 +5,7 @@ Soy una persona autodidacta y siempre estoy buscando oportunidades para aprender
 
 ## Contactame
 Mientras sigo mi camino para ser desarrollador Full Stack, busco constantemente proyectos de colaboración y oportunidades donde pueda aportar mis habilidades y crecer personal y profesionalmente. Por eso ¡¡Contactame!!
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- Programación en C++ y Java.
